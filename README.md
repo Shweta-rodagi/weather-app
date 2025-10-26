@@ -11,6 +11,7 @@ A simple web based mini weather app that shows the current temperature for any c
 ----
 
 ** License
+
  This project is open-source and free to use.
 
  ----
